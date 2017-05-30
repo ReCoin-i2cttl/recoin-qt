@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "ReCoin-QT")
+set(CN_CURRENCY_DISPLAY_NAME "ReCoin-QT")
+set(CN_CURRENCY_TICKER "ReCoin")
