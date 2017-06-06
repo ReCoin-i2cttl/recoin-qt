@@ -7,7 +7,7 @@ You may download them from:
 * http://www.boost.org/
 * Alternatively, it may be possible to install them using a package manager.
 
-To build, change to a directory where this file is located, and run `mkdir build && cd build && cmake .. && make`. The resulting executables can be found in `build/release/src`.
+To build, change to a directory where this file is located, and run `mkdir build && cd build && cmake .. && make`. The resulting executables can be found in `build`.
 
 ### On Windows
 Dependencies: MSVC 2013 or later, CMake 2.8.6 or later, and Boost 1.55. You may download them from:
