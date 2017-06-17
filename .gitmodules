@@ -1,0 +1,3 @@
+[submodule "recoin"]
+	path = recoin
+	url = https://github.com/ReCoin-i2cttl/recoin
